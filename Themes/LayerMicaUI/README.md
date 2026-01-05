@@ -95,7 +95,8 @@ To make the taskbar look exactly as in the image, use the following mods with sp
   "DateStyle.FontStretch":"",
   "DateStyle.CharacterSpacing":30,
   "oldTaskbarOnWin11":0
-}```
+}
+```
   ![Clock Customisation](Clock-Preview.png)
 
 </details>
